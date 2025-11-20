@@ -23,6 +23,8 @@ _Collaborate and work together on GitHub._
 
 ## Step 1: Open a pull request
 
+Simon was here
+
 _Welcome to "Review pull requests"! :wave:_
 
 Let's get started by opening a pull request.
